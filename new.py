@@ -1,1 +1,1 @@
-print("new")
+print("new 1")
