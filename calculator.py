@@ -17,3 +17,4 @@ else:
     result = "Invalid operation"
 
 print(result)
+print("Something")
