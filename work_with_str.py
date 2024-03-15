@@ -1,4 +1,4 @@
 first = input("Enter first str: ")
-fourth = input("Enter second str: ")
+teststststs = input("Enter second str: ")
 
-print(f'Is str the same? {first == fourth}')
+print(f'Is str the same? {first == teststststs}')
