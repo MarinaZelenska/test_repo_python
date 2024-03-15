@@ -15,6 +15,3 @@ elif operation == '/':
         result = number_1 / number_2
 else:
     result = "Invalid operation"
-
-print(result)
-print("Something")
