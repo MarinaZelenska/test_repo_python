@@ -1,4 +1,4 @@
 first = input("Enter first str: ")
-second = input("Enter second str: ")
+third = input("Enter second str: ")
 
-print(f'Is str the same? {first == second}')
+print(f'Is str the same? {first == third}')
