@@ -24,8 +24,8 @@
 
 
 # Task 3
+#    *
 # *
-# * *
 # * * *
 # * * * *
 #
@@ -83,4 +83,33 @@
 #
 # print(f"Count of vowels letters: {count}")
 #
+# my_list = [1, 10, 2, 3, 4, 6, 7, 8]
+# for i in range(1, len(my_list)):
+#     if my_list[i] != my_list[i-1] + 1:
+#         print("Non-consecutive number in the list: ", my_list[i])
+#         break
+# else:
+#     print("The list contains consecutive numbers!")
+#
+
+# unsorted_list = [1, 5, 68, 0]
+# for num in range(1, len(unsorted_list)):
+#     if unsorted_list[num] != unsorted_list[num - 1] + 1:
+#         print(f" First inconsistent number in list {unsorted_list} is {unsorted_list[num]}")
+#         break
+# else:
+#     print("The list contains consecutive numbers!")
+
+# for i in range(1,6):
+#     for j in range(1, i+1):
+#         print(j, end=' ')
+#     print()
+
+
+# height = int(input('Height of the pyramid: '))
+#
+# for i in range(1, height + 1):
+#     for j in range(1, i + 1):
+#         print(j, end=' ')
+#     print()
 

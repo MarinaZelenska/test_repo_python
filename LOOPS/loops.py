@@ -30,6 +30,3 @@
 #     print(i)
 # else:
 #     print("without break")
-
-
-# Функція map()
